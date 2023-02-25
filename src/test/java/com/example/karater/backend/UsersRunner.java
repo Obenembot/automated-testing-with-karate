@@ -1,4 +1,4 @@
-package com.example.karater;
+package com.example.karater.backend;
 
 import com.intuit.karate.junit5.Karate;
 
